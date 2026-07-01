@@ -6,7 +6,7 @@ A modern **Project Management App** built with **React.js** that helps users man
 
 ## 🚀 Live Demo
 
-> **Live Demo:** [https://your-project-name.vercel.app](https://project-management-app-alpha-sooty.vercel.app/login)
+> **Live Demo:** https://project-management-app-alpha-sooty.vercel.app/login
 
 ---
 
