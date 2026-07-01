@@ -1,6 +1,6 @@
-# 📊 Project Management Dashboard
+# 📊 Project Management App
 
-A modern **Project Management Dashboard** built with **React.js** that helps users manage projects and tasks efficiently. The application includes project and task management, a Kanban board, analytics, user profile, settings, and persistent data storage using Local Storage.
+A modern **Project Management App** built with **React.js** that helps users manage projects and tasks efficiently. The application includes project and task management, a Kanban board, analytics, user profile, settings, and persistent data storage using Local Storage.
 
 ---
 
@@ -115,7 +115,7 @@ A modern **Project Management Dashboard** built with **React.js** that helps use
 
 ```text
 
-project-management-dashboard/
+project-management-app/
 │
 ├── public/
 ├── screenshots/
@@ -214,6 +214,6 @@ https://www.linkedin.com/in/komalpreet-singh-5402a8169/
 
 ---
 
-## License
+## 📄 License
 
 This project is licensed under the MIT License.
