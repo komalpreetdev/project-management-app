@@ -79,7 +79,7 @@ const Login = () => {
               <input value={userName} onChange={(event) => setUserName(event.target.value)} className='w-100 border rounded p-1' type='text' placeholder='enter name' required /><br /><br />
 
               <label className='pb-2'>Email :</label><br />
-              <input value={userEmail} onChange={(event) => setUserEmail(event.target.value)} className=' w-100 border rounded p-1' type='text' placeholder='enter name' required /><br /><br />
+              <input value={userEmail} onChange={(event) => setUserEmail(event.target.value)} className=' w-100 border rounded p-1' type='text' placeholder='enter your email' required /><br /><br />
 
               <div className='text-center'>
                 <button className=' bg-default rounded border p-2'>Submit</button>
