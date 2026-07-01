@@ -10,7 +10,11 @@ A modern **Project Management Dashboard** built with **React.js** that helps use
 
 ---
 
-## Screenshots
+## Login
+
+![Login](./screenshots/login.png)
+
+## Dashboard
 
 ![Dashboard](./screenshots/dashboard.png)
 
@@ -20,23 +24,21 @@ A modern **Project Management Dashboard** built with **React.js** that helps use
 
 ## Tasks
 
-![Tasks](./screenshots/kanban.png)
+![Tasks](./screenshots/tasks.png)
 
 ## Kanban
 
-![Kanban](./screenshots/login.png)
-
-## Profile
-
-![Profile](./screenshots/editprofile.png)
+![Kanban](./screenshots/kanban.png)
 
 ## Settings
 
 ![Settings](./screenshots/settings.png)
 
-## Tasks
+## Profile
 
-![Tasks](./screenshots/tasks.png)
+![Profile](./screenshots/editprofile.png)
+
+
 
 ---
 
