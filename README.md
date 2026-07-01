@@ -145,13 +145,13 @@ project-management-dashboard/
 Clone the repository
 
 ```bash
-git clone https://github.com/your-github-username/project-management-dashboard.git
+git clone https://github.com/komalpreetdev/project-management-app.git
 ```
 
 Go to project folder
 
 ```bash
-cd project-management-dashboard
+cd project-management-app
 ```
 
 Install dependencies
@@ -203,7 +203,7 @@ This project helped me strengthen my understanding of:
 **Komalpreet Singh**
 
 GitHub:
-https://github.com/your-github-username
+https://github.com/komalpreetdev
 
 LinkedIn:
 https://www.linkedin.com/in/komalpreet-singh-5402a8169/
