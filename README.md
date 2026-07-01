@@ -36,7 +36,7 @@ A modern **Project Management Dashboard** built with **React.js** that helps use
 
 ## Profile
 
-![Profile](./screenshots/editprofile.png)
+![Profile](./screenshots/profile.png)
 
 
 
