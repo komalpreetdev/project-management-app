@@ -73,7 +73,7 @@ const EditProfile = () => {
             <input onChange={(event) => setEditUserName(event.target.value)} defaultValue={loginData.userName} className='w-100 border rounded p-1' type='text' placeholder='enter name' required /><br /><br />
 
             <label className='pb-2'>Email :</label><br />
-            <input onChange={(event) => setEditUserEmail(event.target.value)} defaultValue={loginData.userEmail} className=' w-100 border rounded p-1' type='text' placeholder='enter name' required /><br /><br />
+            <input onChange={(event) => setEditUserEmail(event.target.value)} defaultValue={loginData.userEmail} className=' w-100 border rounded p-1' type='text' placeholder='enter your email' required /><br /><br />
 
             <div className='text-center'>
               <button className=' bg-default rounded border p-2'>Submit</button>
