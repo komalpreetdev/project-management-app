@@ -10,6 +10,9 @@ A modern **Project Management Dashboard** built with **React.js** that helps use
 
 ---
 
+## Screenshots
+
+
 ## Login
 
 ![Login](./screenshots/login.png)
@@ -44,50 +47,50 @@ A modern **Project Management Dashboard** built with **React.js** that helps use
 
 ## Features
 
-### Dashboard
+### 📊 Dashboard
 - Display total projects
 - Display total tasks
 - Display completed tasks
 - Pie Chart (Tasks by Status)
 - Bar Chart (Project Analytics)
 
-### Project Management
+### 📁 Project Management
 - Create Project
 - Edit Project
 - Delete Project
 
-### Task Management
+### ✅ Task Management
 - Create Task
 - Edit Task
 - Delete Task
 - Assign Task to Project
 - Update Task Status
 
-### Kanban Board
+### 📋 Kanban Board
 - Display tasks by status
 - Todo Column
 - In Progress Column
 - Done Column
 - Drag & Drop support
 
-### Profile
+### 👤 Profile
 - Update profile photo
 - Update user name
 - Update email
 - Store profile information in Local Storage
 
-### Settings
+### ⚙️ Settings
 - Light/Dark Theme
 - Reset Application Data
 
-### Data Persistence
+### 💾 Data Persistence
 - Local Storage support
 - Projects persist after refresh
 - Tasks persist after refresh
 - User profile persists after refresh
 - Theme preference persists after refresh
 
-### Responsive Design
+### 📱 Responsive Design
 - Desktop
 - Tablet
 - Mobile
@@ -97,6 +100,7 @@ A modern **Project Management Dashboard** built with **React.js** that helps use
 ## Tech Stack
 
 - React.js
+- Vite
 - React Router DOM
 - Context API
 - Bootstrap 5
@@ -174,7 +178,7 @@ npm run dev
 - Backend Integration
 - Notifications
 - Due Dates
-- Filters
+- Search & Filters
 - Team Collaboration
 - API Integration
 
@@ -198,14 +202,14 @@ This project helped me strengthen my understanding of:
 
 ---
 
-## Author
+## 👨‍💻 Author
 
 **Komalpreet Singh**
 
-GitHub:
+- GitHub:
 https://github.com/komalpreetdev
 
-LinkedIn:
+- LinkedIn:
 https://www.linkedin.com/in/komalpreet-singh-5402a8169/
 
 ---
