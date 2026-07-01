@@ -110,25 +110,32 @@ A modern **Project Management Dashboard** built with **React.js** that helps use
 ## Folder Structure
 
 ```text
-src/
+
+project-management-dashboard/
 │
-├── components/
-│   ├── context/
-│   ├── dashboard/
-│   ├── kanban/
-│   ├── layout/
-│   ├── login/
-│   ├── myProfile/
-│   ├── popups/
-│   ├── projects/
-│   └── protectedRoute/
-│   ├── settings/
-│   ├── tasks/
+├── public/
+├── screenshots/
+├── src/
+│   ├── assets/
+│   ├── components/
+│   │   ├── context/
+│   │   ├── dashboard/
+│   │   ├── kanban/
+│   │   ├── layout/
+│   │   ├── login/
+│   │   ├── myProfile/
+│   │   ├── projects/
+│   │   ├── settings/
+│   │   └── tasks/
+│   ├── pages/
+│   ├── App.jsx
+│   └── main.jsx
 │
-├── pages/
-│
-├── App.jsx
-└── main.jsx
+├── package.json
+├── README.md
+└── vite.config.js
+
+
 ```
 
 ---
@@ -196,7 +203,7 @@ This project helped me strengthen my understanding of:
 **Komalpreet Singh**
 
 GitHub:
-https://github.com/komalpreetdev
+https://github.com/your-github-username
 
 LinkedIn:
 https://www.linkedin.com/in/komalpreet-singh-5402a8169/
