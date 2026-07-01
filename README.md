@@ -1,16 +1,16 @@
-# Project Management Dashboard
+# 📊 Project Management Dashboard
 
 A modern **Project Management Dashboard** built with **React.js** that helps users manage projects and tasks efficiently. The application includes project and task management, a Kanban board, analytics, user profile, settings, and persistent data storage using Local Storage.
 
 ---
 
-## Live Demo
+## 🚀 Live Demo
 
 > **Live Demo:** https://your-project-name.vercel.app
 
 ---
 
-## Screenshots
+## 📸 Screenshots
 
 
 ## Login
@@ -45,7 +45,7 @@ A modern **Project Management Dashboard** built with **React.js** that helps use
 
 ---
 
-## Features
+## ✨ Features
 
 ### 📊 Dashboard
 - Display total projects
@@ -97,7 +97,7 @@ A modern **Project Management Dashboard** built with **React.js** that helps use
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 - React.js
 - Vite
@@ -111,7 +111,7 @@ A modern **Project Management Dashboard** built with **React.js** that helps use
 
 ---
 
-## Folder Structure
+## 📂 Folder Structure
 
 ```text
 
@@ -144,7 +144,7 @@ project-management-dashboard/
 
 ---
 
-## Installation
+## ⚙️ Installation
 
 Clone the repository
 
@@ -172,7 +172,7 @@ npm run dev
 
 ---
 
-## Future Improvements
+## 💡 Future Improvements
 
 - Redux Toolkit
 - Backend Integration
@@ -184,7 +184,7 @@ npm run dev
 
 ---
 
-## What I Learned
+## 🎯 What I Learned
 
 This project helped me strengthen my understanding of:
 
