@@ -1,0 +1,317 @@
+.light-mode {
+    height: 100%;
+    background-color: #29293f;
+    color: #fff;
+
+    transition: 0.5s;
+}
+
+.dark-mode {
+    height: 100%;
+    background-color: #000;
+    color: #fff;
+
+    transition: 0.5s;
+}
+
+
+.light-mode .sidebar {
+    background-color: rgb(85, 85, 183);
+    height: 100%;
+    width: 250px;
+    position: fixed;
+    transition: 0.5s;
+    top: 0;
+    padding-top: 10px;
+    z-index: 9;
+}
+
+
+.dark-mode .sidebar {
+    background-color: rgb(85, 85, 183);
+    height: 100%;
+    width: 250px;
+    position: fixed;
+    transition: 0.5s;
+    top: 0;
+    padding-top: 10px;
+    z-index: 9;
+}
+
+.header {
+    margin-left: 250px;
+}
+
+.logo {
+    color: #fff;
+
+}
+
+.navLinks ul li {
+    cursor: pointer;
+}
+
+.navLinks ul li a {
+    color: #fff;
+    text-decoration: none;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+
+.navLinks ul li:hover {
+    background-color: #fff;
+    color: #000;
+    transition: 0.1s;
+}
+
+.navLinks ul li:hover a {
+    color: #000;
+    transition: 0.1s;
+}
+
+.mainSection {
+    margin-left: 250px;
+    min-height: 100vh;
+}
+
+.headerUl li {
+    padding-left: 20px;
+}
+
+.headerUl input {
+    font-size: 14px;
+}
+
+.profileImg {
+    width: 35px;
+    height: 35px;
+    border-radius: 50%;
+    border: 2px solid #fff;
+}
+
+.innerStatBox {
+    background-color: #1b2137;
+    box-shadow: 1px 1px 5px 0px #000;
+    padding: 10px;
+    border-radius: 10px;
+
+}
+
+.innerStatBox h5 {
+    font-weight: 400;
+}
+
+.statCounts {
+    font-size: 24px;
+    font-weight: 100;
+}
+
+.statCounts p {
+    margin-bottom: 0;
+}
+
+.listingSection .actions {
+    gap: 10px;
+    padding-top: 5px;
+}
+
+.listingSection .actions svg {
+    cursor: pointer;
+}
+
+
+.listingSection .actions svg:hover {
+    color: red;
+}
+
+.navActive {
+    background-color: #fff;
+    color: #000 !important;
+}
+
+.statusBox {
+    background-color: #1b2137;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+.status {
+    background-color: #3d3d60;
+    padding: 10px;
+    text-align: center;
+    border-radius: 10px 10px 0 0;
+    margin-bottom: 10px;
+}
+
+.taskStatus {
+    background-color: rgb(85, 85, 183);
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.taskStatus p {
+    font-size: 13px;
+}
+
+.taskLabel {
+    transform: translate(0px, 0px);
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 10px 0;
+    color: #000;
+    background: #fff;
+    cursor: grab;
+    border-radius: 5px;
+}
+
+:focus {
+    outline: none !important;
+}
+
+.dropbtn {
+    padding: 10px 15px;
+}
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    right: 0;
+    background: rgb(85 85 183);
+    min-width: 150px;
+    border-radius: 5px;
+    overflow: hidden;
+    font-size: 14px;
+    box-shadow: 0px 0px 5px 1px #00000054;
+}
+
+.dropdown-content a {
+    color: #fff;
+    padding: 5px 10px;
+    display: block;
+    text-decoration: none;
+}
+
+.dropdown-content a:hover {
+    background: #3d3d60;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+    z-index: 999;
+}
+
+.light-mode .loginBox {
+    background-color: rgb(85 85 183);
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow: 0px 0px 5px 1px #00000054;
+    transition: 0.5s;
+
+}
+
+.mainLogin {
+
+    max-width: 400px;
+    min-width: 400px;
+    margin: 0px auto;
+    top: 50%;
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%, -50%)
+}
+
+.dark-mode .loginBox {
+    background-color: rgb(85 85 183);
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow: 0px 0px 5px 1px #00000054;
+    transition: 0.5s;
+
+}
+
+.loginBox button:hover {
+    background-color: #fff;
+    color: #000;
+    transition: 0.5s;
+}
+
+.editProfile .mainLogin {
+    margin-left: 150px;
+}
+
+.mySettings-section .mainLogin {
+    margin-left: 150px;
+}
+
+.userImg {
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    position: relative;
+    margin: 0px auto;
+}
+
+.userImg input {
+
+    width: 70px;
+    height: 70px;
+    position: relative;
+    margin: 0px auto;
+    border-radius: 50%;
+    opacity: 0;
+
+}
+
+.userImg svg {
+
+    position: absolute;
+    bottom: 5px;
+    right: 0px;
+    border-radius: 5px;
+    z-index: 9;
+    cursor: pointer;
+
+}
+
+.userImg img {
+    position: absolute;
+    top: 0;
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+}
+
+.modeSwitch p {
+    width: 65px;
+    margin-bottom: 0;
+}
+
+.recharts-wrapper {
+    width: 100% !important;
+    height: auto !important;
+}
+
+.recharts-legend-wrapper {
+    width: 100% !important;
+}
+
+.bars {
+    display: none;
+}
+
+.times {
+    display: none;
+}
+
+.logo img {
+    width: 30px;
+
+}
+

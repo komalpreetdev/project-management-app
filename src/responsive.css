@@ -1,0 +1,277 @@
+@media (max-width: 1024px) {
+    .innerStatBox h5 {
+        font-size: 12px;
+    }
+
+    .statCounts {
+        font-size: 12px;
+    }
+
+    .headerUl h4 {
+        font-size: 20px;
+    }
+
+    .recharts-legend-item-text {
+        font-size: 12px;
+    }
+
+    .navLinks ul li a {
+        font-size: 12px;
+    }
+
+    .btn {
+        font-size: 12px;
+    }
+
+    tbody,
+    td,
+    tfoot,
+    th,
+    thead,
+    tr {
+        font-size: 12px;
+    }
+
+    .modal-body {
+        font-size: 12px;
+    }
+
+    .form-control {
+        font-size: 12px;
+    }
+
+    .status h6 {
+        font-size: 12px;
+    }
+
+    .taskLabel h6 {
+        font-size: 12px;
+    }
+
+    .taskLabel p {
+        font-size: 12px;
+    }
+
+    .mainLogin h4 {
+        font-size: 20px;
+    }
+
+    .form-check label {
+        font-size: 12px;
+    }
+
+    .loginBox label {
+        font-size: 14px;
+    }
+
+    .loginBox input {
+        font-size: 14px;
+    }
+}
+
+@media(max-width:768px) {
+    .mainLogin {
+        max-width: 300px;
+        min-width: 300px;
+        margin-left: 0 !important;
+
+    }
+
+    .mainSection {
+        margin-left: 0;
+        padding: 0 15px;
+    }
+
+    .sidebar {
+        width: 200px !important;
+
+    }
+
+    .sidebar-close {
+        left: -200px;
+    }
+
+    .sidebar-open {
+        left: 0;
+    }
+
+    .logo {
+        font-size: 14px;
+    }
+
+    .header {
+        margin-left: unset;
+    }
+
+    .headerUl {
+        padding: 0 10px;
+    }
+
+    .dropbtn {
+        padding: 10px 0px;
+    }
+
+    .modal-content {
+        max-width: 300px;
+        margin: 0px auto;
+    }
+
+    .mainLogin h4 {
+        font-size: 18px;
+    }
+
+    .bars {
+        display: block;
+    }
+
+    .times svg {
+
+        position: absolute;
+        right: 3px;
+        top: 3px;
+        color: #fff;
+        font-size: 17px;
+
+    }
+    .times{
+    display: block;
+}
+
+
+}
+
+@media(max-width:426px) {
+
+    .mainLogin {
+        max-width: 250px;
+        min-width: 250px;
+        margin-left: 0 !important;
+
+    }
+
+    .mainSection {
+        margin-left: 0;
+        padding: 0 15px;
+    }
+
+    .logo {
+        font-size: 12px;
+    }
+
+    .logo img {
+        font-size: 25px;
+    }
+
+    .navLinks {
+        padding: 20px 0;
+    }
+
+    .navLinks ul li a {
+        font-size: 11px;
+    }
+
+    tbody,
+    td,
+    tfoot,
+    th,
+    thead,
+    tr {
+
+        white-space: nowrap;
+    }
+
+
+    .mySettings-section .mainLogin {
+        max-width: 300px;
+        min-width: 300px;
+    }
+
+    .TaskListingSection input {
+        font-size: 12px;
+    }
+
+    .col {
+        flex: unset;
+        margin-bottom: 20px;
+    }
+
+    .header {
+        margin-bottom: 20px;
+    }
+
+
+    .header {
+        margin-left: unset;
+    }
+
+    .headerUl {
+        padding: 0 10px;
+    }
+
+    .dropbtn {
+        padding: 10px 0px;
+    }
+
+    .modal-content {
+        max-width: 300px;
+        margin: 0px auto;
+    }
+
+    .mainLogin h4 {
+        font-size: 16px;
+    }
+
+    .bars {
+        display: block;
+    }
+
+    .times svg {
+
+        position: absolute;
+        right: 3px;
+        top: 3px;
+        color: #fff;
+        font-size: 17px;
+
+    }
+
+    .loginBox label {
+        font-size: 12px;
+    }
+
+    .loginBox input {
+        font-size: 12px;
+    }
+
+    button {
+        font-size: 12px;
+        padding: 5px 10px ! Important;
+    }
+
+    .userImg {
+        width: 50px;
+        height: 50px;
+    }
+
+    .userImg img {
+
+        width: 50px;
+        height: 50px;
+
+    }
+
+    .headerUl h4 {
+        font-size: 14px;
+    }
+
+    .profileImg {
+        width: 30px;
+        height: 30px;
+
+    }
+
+    .dropdown-content a {
+        font-size: 12px;
+    }
+
+}
