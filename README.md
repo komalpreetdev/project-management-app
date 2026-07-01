@@ -16,7 +16,7 @@ A modern **Project Management Dashboard** built with **React.js** that helps use
 
 ## Projects
 
-![Projects](./screenshots/editprofile.png)
+![Projects](./screenshots/projects.png)
 
 ## Tasks
 
@@ -28,7 +28,7 @@ A modern **Project Management Dashboard** built with **React.js** that helps use
 
 ## Profile
 
-![Profile](./screenshots/projects.png)
+![Profile](./screenshots/editprofile.png)
 
 ## Settings
 
