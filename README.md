@@ -196,7 +196,7 @@ This project helped me strengthen my understanding of:
 **Komalpreet Singh**
 
 GitHub:
-https://github.com/your-github-username
+https://github.com/komalpreetdev
 
 LinkedIn:
 https://www.linkedin.com/in/komalpreet-singh-5402a8169/
